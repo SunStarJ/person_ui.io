@@ -167,7 +167,7 @@ return s},
 ajZ(a,b){a.halfLeading=b
 return b},
 av1(a,b,c,d,e){return t.e.a({width:e,height:d,colorType:c,alphaType:a,colorSpace:b})},
-azA(a){var s,r="chromium/canvaskit.js"
+azA(a){var s,r="canvaskit.js"
 switch(a.a){case 0:s=A.a([],t.s)
 if(A.amh())s.push(r)
 s.push("canvaskit.js")
